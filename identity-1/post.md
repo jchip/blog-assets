@@ -1,7 +1,5 @@
 ![Two ID cards with the same name, birth date and SSN. The left is a dashed copy with no photo. The right is solid, with a photo and a verified seal.](https://raw.githubusercontent.com/jchip/blog-assets/main/identity-1/00-hero.png)
 
-*Both cards carry the same facts. Only one of them is me. (Sample data.)*
-
 When it comes to protecting your identity, the typical advice goes like this. Guard your Social Security number. Shred your mail. Check your credit report. Watch for charges you don't recognize.
 
 This is good advice, and I follow it. But it's all defense, and it often isn't enough. In a single year, about 1 in 11 Americans aged 16 and older had their identity stolen.
@@ -11,8 +9,6 @@ Here's a puzzle. Your bank account number is printed on every check you've ever 
 Your Social Security number is guarded far more carefully. Yet a thief who knows it, plus your name and birth date, can open a credit card as you.
 
 ![Two objects side by side. Left: a paper check with a sample account number printed along the bottom. It is printed on every check you write, and it can't empty your account. Right: a Social Security card showing a sample number ending in 4821. It is guarded carefully, yet it opens a credit card in your name.](https://raw.githubusercontent.com/jchip/blog-assets/main/identity-1/01-puzzle.png)
-
-*Sample data.*
 
 Why does one number work like a key, when the other doesn't?
 
@@ -72,8 +68,6 @@ You might think careful people are safe. But only about 1 in 5 victims know how 
 
 ![Five person icons, one filled: 1 in 5 victims know how their information was obtained. Bars: online 37.5%, in-person purchase 17.6%, company or employer files 16.3%, mail, wallet, home or car 11.3%, other 17.2%.](https://raw.githubusercontent.com/jchip/blog-assets/main/identity-1/04-where-stolen-info-came-from.png)
 
-*Source: Bureau of Justice Statistics, Victims of Identity Theft, 2021, Table 4. Shares don't total 100% due to rounding.*
-
 | How the information was obtained | Share |
 | --- | --- |
 | Online (scam emails and calls, online shopping, device access) | 37.5% |
@@ -88,8 +82,6 @@ The breaches keep coming. The Identity Theft Resource Center counted 3,322 publi
 
 ![Line chart. Data compromises rose from 1,859 in 2021 and 1,798 in 2022 to 3,202 in 2023, 3,152 in 2024 and 3,322 in 2025.](https://raw.githubusercontent.com/jchip/blog-assets/main/identity-1/05-compromises-per-year.png)
 
-*Source: ITRC 2025 Annual Data Breach Report, Figure 1. Counts publicly reported incidents, not their size or the people affected.*
-
 | Year | Compromises |
 | --- | --- |
 | 2021 | 1,859 |
@@ -101,8 +93,6 @@ The breaches keep coming. The Identity Theft Resource Center counted 3,322 publi
 Some of them were enormous. And the leaks came from places people trusted: health insurers, a credit bureau, a hotel chain, a bank, a phone company, even the federal government's personnel office.
 
 ![Some of the biggest breaches: Yahoo 2013, 3 billion accounts; Marriott 2014, 339 million guest records; OPM 2015, 21.5 million people; Anthem 2015, 79 million people; Equifax 2017, 147 million people; Capital One 2019, 100 million people; AT&T 2024, 73 million account holders.](https://raw.githubusercontent.com/jchip/blog-assets/main/identity-1/06-biggest-breaches.png)
-
-*Sources: FTC, HHS, OPM, SEC filings, company statements. Counts use each source's own unit.*
 
 | Year | Company | Affected | Exposed |
 | --- | --- | --- | --- |
@@ -249,8 +239,6 @@ There are a few kinds, and you may already use one.
 **Your state.** A growing number of states issue mobile driver's licenses. You can keep them in a phone wallet, and TSA accepts them at many airport checkpoints.
 
 ![Three kinds of identity providers: government, private companies, and your state.](https://raw.githubusercontent.com/jchip/blog-assets/main/identity-1/13-providers.png)
-
-*Examples, not a ranking.*
 
 Some of these are already the way in to services you use. Social Security's online account accepts Login.gov or ID.me. The IRS uses ID.me for sign-in. So claiming your identity at those two places also claims it with a provider.
 
